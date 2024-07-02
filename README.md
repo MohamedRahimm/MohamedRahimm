@@ -4,13 +4,13 @@
 ## GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=MohamedRahimm&show_icons=true&theme=radical" />
+  <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=MohamedRahimm&show_icons=true&title_color=F1F1F0&bg_color=111011&ring_color=FEA016&text_color=F1F1F0&icon_color=D8524F&border_color=404141" />
   &nbsp;
 &nbsp;
-  <img style="height: auto; width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRahimm&theme=radical&layout=compact" />
+  <img style="height: auto; width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRahimm&title_color=F1F1F0&bg_color=111011&ring_color=FEA016&text_color=F1F1F0&icon_color=D8524F&border_color=404141&layout=compact" />
 </div>
 
-
+<img style="height: auto; width: 50%;" src="https://leetcard.jacoblin.cool/shahann" />
 
 ## Skills
 
