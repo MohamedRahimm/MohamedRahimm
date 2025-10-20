@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rahim</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
 
 ## GitHub Stats
 
